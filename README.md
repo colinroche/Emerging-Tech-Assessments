@@ -19,13 +19,13 @@ The less complex of these method are not accurate enough to calculate the square
 
 The more convoluted does not seem to be an efficient way of doing this either, requiring the checking a number of different variable and to be exponential in every iteration of the method. This might work for computation of lower decimal answer but has potentional problem when it comes to 100 decimal places.
 
-# Documentation
-## Simple Square Root
+## Documentation
+### Simple Square Root
 A quick and simple way of calculating the square root of a number in python is using the ** - expontentiation operator.  They way to do the is by having the exponent number set to .5.  The reason this works is that in maths, the square root of a number is the number multiplied the expontent of .5.
 
 The problem with this method of getting the square root of number is that in python, the calculation doesn't seem to be stored with extreme accurrency.  If fact python seems to only store this number accurrently to 12 decimals places which is insufficent for us.  The storing of the absolute of the calculation is necessary to get the number to an accurate 100 decimals.
 
-# References
+## References
 
 # Task [1] - Square-Root of 2 outputted to 100 decimal places
 ## The Written Method
