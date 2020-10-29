@@ -27,8 +27,8 @@ The problem with this method of getting the square root of number is that in pyt
 
 ## References
 
-# Task [1] - Square-Root of 2 outputted to 100 decimal places
-## The Written Method
+### Task [1] - Square-Root of 2 outputted to 100 decimal places
+The Written Method
 * [Another Method by the author referenced above](https://mathlesstraveled.com/2009/06/11/square-roots-with-pencil-and-paper-method-2/)
 * [Quick way of getting square roots](https://www.youtube.com/watch?v=PJHtqMjrStk)
 * [Calculating square roots without a calculator](https://www.youtube.com/watch?v=uIrjN2Onn8M)
