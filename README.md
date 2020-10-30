@@ -20,7 +20,7 @@ The less complex of these method are not accurate enough to calculate the square
 The more convoluted do not seem to be an efficient way of doing this either, requiring the checking a number of different variable and to be exponential in every iteration of the method. This might work for computation of lower decimal answer but has potentional problem when it comes to 100 decimal places.
 
 ### The Babylonian Method
-![](images/babylonian.png)
+![](images/babylonian.PNG)
 
 This way of finding square roots was discoverd by the Babylonian Civilation(1500BC) and is still widely used today.
 
